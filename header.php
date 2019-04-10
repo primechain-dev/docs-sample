@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Bootstrap 4 project documentation theme for developers</title>
+	<title>Primechain-API Docs</title>
 	<!-- Meta -->
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -32,7 +32,7 @@
 					<h1 class="logo">
 						<a href="index.html">
 							<span aria-hidden="true" class="icon_documents_alt icon"></span>
-							<span class="text-highlight">Pretty</span><span class="text-bold">Docs</span>
+							<span class="text-highlight">Primechain API Docs</span>
 						</a>
 					</h1>
 					
@@ -40,7 +40,7 @@
 				
 				<ol class="breadcrumb">
 					<li class="breadcrumb-item"><a href="index.html">Home</a></li>
-					<li class="breadcrumb-item active">Quick Start</li>
+					<li class="breadcrumb-item active">Docs</li>
 				</ol>
 				
 				<div class="top-search-box">
@@ -58,6 +58,6 @@
 		<div class="doc-wrapper">
 			<div class="container">
 				<div id="doc-header" class="doc-header text-center">
-					<h1 class="doc-title"><i class="icon fa fa-paper-plane"></i> Quick Start</h1>
+					<h1 class="doc-title"><i class="icon fa fa-paper-plane"></i> Docs</h1>
 					<div class="meta"><i class="far fa-clock"></i> Last updated: July 18th, 2018</div>
 				</div><!--//doc-header-->
