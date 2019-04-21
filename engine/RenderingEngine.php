@@ -47,7 +47,7 @@
 			$navHeader = "<div class='doc-sidebar col-md-3 col-12 order-0 d-none d-md-flex'>
 						<div id='doc-nav' class='doc-nav'>
 
-								<nav id='doc-menu' class='nav doc-menu flex-column sticky'>";
+								<nav id='doc-menu' class='nav doc-menu flex-column fixed sticky'>";
 			$navBody = "";
 
 			for ($i=0; $i < count($sections); $i++) {

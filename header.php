@@ -58,6 +58,6 @@
 		<div class="doc-wrapper">
 			<div class="container">
 				<div id="doc-header" class="doc-header text-center">
-					<h1 class="doc-title"><i class="icon fa fa-paper-plane"></i> Docs</h1>
-					<div class="meta"><i class="far fa-clock"></i> Last updated: July 18th, 2018</div>
+					<h1 class="doc-title"><i class="icon fa fa-paper-plane"></i> ENDPOINTS</h1>
+					<div class="meta"><!-- <i class="far fa-clock"></i> Last updated: July 18th, 2018 --></div>
 				</div><!--//doc-header-->
